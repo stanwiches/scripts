@@ -3,3 +3,4 @@ terraform.tfvars
 mykey*
 terraform.tfstate*
 tf*
+sy-tf-ubuntu
